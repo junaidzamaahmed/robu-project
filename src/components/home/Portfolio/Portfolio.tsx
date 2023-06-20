@@ -30,7 +30,7 @@ export default function Portfolio() {
               (𝐀𝐔𝐕) - 𝐁𝐑𝐀𝐂𝐔 𝐃𝐮𝐛𝐮𝐫𝐢 has successfully touched many coasts of
               accomplishments and set milestones with the previous two versions
               and now, 𝐁𝐑𝐀𝐂𝐔 𝐃𝐮𝐛𝐮𝐫𝐢 𝘷𝘦𝘳𝘴𝘪𝘰𝘯 𝘵𝘩𝘳𝘦𝘦 is roaring with full vigor to
-              exceed it's predecessors.
+              exceed it&apos;s predecessors.
             </p>
           </div>
           <Button className="ms-4 bg-primary hover:bg-secondary">
